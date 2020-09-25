@@ -6,6 +6,7 @@ const uid="abc123";
 fullName=prompt("Enter your name");
 console.log("full name is : "+fullName);
 var isloggedInFromGoogle=false;
+var isloggedInFromFB=false;
 //uid = "abcd123";
 
 //interpolation
