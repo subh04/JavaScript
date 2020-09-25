@@ -15,6 +15,7 @@ console.log(`
     whose unique id is followed by : ${uid}
     user with course : ${courseName}
     who is logged in from google = ${isloggedInFromGoogle}
+    who is logged in from FB = ${isloggedInFromFB}
 
 `);
 
