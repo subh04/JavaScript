@@ -32,7 +32,18 @@ authenticated=false;
 authenticated ? console.log("show signout") : console.log("show sign in");
 //subhasish
 //sabby
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+        //if no break then fall through occurs 
 
 
+}
+//javascript assumes a lot and for which type coersion occurs ie it sometime assumes a digit as a string and 
+// it should not happen thats why we use === to check the type more strictly
 
 
