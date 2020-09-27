@@ -30,6 +30,7 @@ console.log(D+"% discount");
 //ternary conditions
 authenticated=false;
 authenticated ? console.log("show signout") : console.log("show sign in");
+//subhasish
 
 
 
